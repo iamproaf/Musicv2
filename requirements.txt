@@ -21,6 +21,6 @@ spotipy
 tgcrypto
 unidecode
 yt-dlp
-httpx==0.25.2
+httpx
 youtube-search
 youtube-search-python
