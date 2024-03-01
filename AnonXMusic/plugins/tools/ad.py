@@ -1,5 +1,6 @@
 import asyncio
 import time
+from AnonXMusic import app
 
 @app.on_message(filters.command("gadd") & filters.user(int(HEHE)))
 async def add_all(client, message):
